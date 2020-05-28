@@ -1,0 +1,30 @@
+ "groundControlHazards": [
+    {
+      "inspectionPoint": "Falling / Damage / Missing Support",
+      "checked": true,
+      "answer": "the long answer here",
+      "answerCode": "Y",
+      "comment": "string"
+    },
+    {
+      "inspectionPoint": "Blocky Ground",
+      "checked": true,
+      "answer": "the long answer here",
+      "answerCode": "R",
+      "comment": "string"
+    },
+    {
+      "inspectionPoint": "Falls Of Ground",
+      "checked": true,
+      "answer": "the long answer here",
+      "answerCode": "Y",
+      "comment": "string"
+    },
+    {
+      "inspectionPoint": "Water",
+      "checked": true,
+      "answer": "the long answer here",
+      "answerCode": "R",
+      "comment": "string"
+    }
+  ]
